@@ -1,4 +1,4 @@
-# 🌍 FlowIQ
+# 🌍 flowIQ
 
 🚀 Simplifying the world of IT for students, beginners, and curious minds.
 
