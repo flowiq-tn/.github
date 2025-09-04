@@ -10,7 +10,7 @@ We create educational content around:
 - 💡 Real-world projects
 
 ## 🎥 Learn with us
-- YouTube: [FlowIQ Channel](#)
+- YouTube: [FlowIQ Channel](https://www.youtube.com/@flowIQ-TN)
 - TikTok: [@flowiq](#)
 - Instagram: [@flowiq](#)
 
