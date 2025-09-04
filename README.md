@@ -11,8 +11,8 @@ We create educational content around:
 
 ## 🎥 Learn with us
 - YouTube: [FlowIQ Channel](https://www.youtube.com/@flowIQ-TN)
-- TikTok: [@flowiq](#)
-- Instagram: [@flowiq](#)
+- TikTok: [@flowiq](https://www.tiktok.com/@flowiq_tn)
+- Instagram: [@flowIQ](https://www.instagram.com/flowiq_tn/)
 
 ## 📌 Our Roadmap
 1. Python basics → mini projects
